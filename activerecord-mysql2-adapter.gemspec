@@ -2,7 +2,7 @@
 require File.expand_path('../lib/activerecord-mysql2-adapter/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["Matthias Viehweger"]
+  gem.authors       = ["Brian Lopez", "Matthias Viehweger"]
   gem.email         = ["kronn@kronn.de"]
   gem.description   = %q{extracted code from mysql2}
   gem.summary       = %q{extracted code from mysql2}
